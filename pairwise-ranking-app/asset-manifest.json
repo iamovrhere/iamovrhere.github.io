@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://iamovrhere.github.io/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css",
-    "main.js": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/main.318c4c72.chunk.js",
-    "main.js.map": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/main.318c4c72.chunk.js.map",
-    "runtime-main.js": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/runtime-main.fdcaa58a.js",
-    "runtime-main.js.map": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/runtime-main.fdcaa58a.js.map",
-    "static/js/2.75721fa5.chunk.js": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/2.75721fa5.chunk.js",
-    "static/js/2.75721fa5.chunk.js.map": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/2.75721fa5.chunk.js.map",
-    "static/js/3.e61667d8.chunk.js": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/3.e61667d8.chunk.js",
-    "static/js/3.e61667d8.chunk.js.map": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/3.e61667d8.chunk.js.map",
-    "index.html": "https://iamovrhere.github.io/pairwise-ranking-app/index.html",
-    "static/css/main.bf5efef6.chunk.css.map": "https://iamovrhere.github.io/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css.map",
-    "static/js/2.75721fa5.chunk.js.LICENSE.txt": "https://iamovrhere.github.io/pairwise-ranking-app/static/js/2.75721fa5.chunk.js.LICENSE.txt"
+    "main.css": "/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css",
+    "main.js": "/pairwise-ranking-app/static/js/main.d1685a59.chunk.js",
+    "main.js.map": "/pairwise-ranking-app/static/js/main.d1685a59.chunk.js.map",
+    "runtime-main.js": "/pairwise-ranking-app/static/js/runtime-main.dd46e98f.js",
+    "runtime-main.js.map": "/pairwise-ranking-app/static/js/runtime-main.dd46e98f.js.map",
+    "static/js/2.eb6c115d.chunk.js": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js",
+    "static/js/2.eb6c115d.chunk.js.map": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js.map",
+    "static/js/3.e61667d8.chunk.js": "/pairwise-ranking-app/static/js/3.e61667d8.chunk.js",
+    "static/js/3.e61667d8.chunk.js.map": "/pairwise-ranking-app/static/js/3.e61667d8.chunk.js.map",
+    "index.html": "/pairwise-ranking-app/index.html",
+    "static/css/main.bf5efef6.chunk.css.map": "/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css.map",
+    "static/js/2.eb6c115d.chunk.js.LICENSE.txt": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdcaa58a.js",
-    "static/js/2.75721fa5.chunk.js",
+    "static/js/runtime-main.dd46e98f.js",
+    "static/js/2.eb6c115d.chunk.js",
     "static/css/main.bf5efef6.chunk.css",
-    "static/js/main.318c4c72.chunk.js"
+    "static/js/main.d1685a59.chunk.js"
   ]
 }
