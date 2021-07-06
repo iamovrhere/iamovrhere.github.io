@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css",
-    "main.js": "/pairwise-ranking-app/static/js/main.d1685a59.chunk.js",
-    "main.js.map": "/pairwise-ranking-app/static/js/main.d1685a59.chunk.js.map",
+    "main.js": "/pairwise-ranking-app/static/js/main.b8dbb59b.chunk.js",
+    "main.js.map": "/pairwise-ranking-app/static/js/main.b8dbb59b.chunk.js.map",
     "runtime-main.js": "/pairwise-ranking-app/static/js/runtime-main.dd46e98f.js",
     "runtime-main.js.map": "/pairwise-ranking-app/static/js/runtime-main.dd46e98f.js.map",
-    "static/js/2.eb6c115d.chunk.js": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js",
-    "static/js/2.eb6c115d.chunk.js.map": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js.map",
+    "static/js/2.91f47c7c.chunk.js": "/pairwise-ranking-app/static/js/2.91f47c7c.chunk.js",
+    "static/js/2.91f47c7c.chunk.js.map": "/pairwise-ranking-app/static/js/2.91f47c7c.chunk.js.map",
     "static/js/3.e61667d8.chunk.js": "/pairwise-ranking-app/static/js/3.e61667d8.chunk.js",
     "static/js/3.e61667d8.chunk.js.map": "/pairwise-ranking-app/static/js/3.e61667d8.chunk.js.map",
     "index.html": "/pairwise-ranking-app/index.html",
     "static/css/main.bf5efef6.chunk.css.map": "/pairwise-ranking-app/static/css/main.bf5efef6.chunk.css.map",
-    "static/js/2.eb6c115d.chunk.js.LICENSE.txt": "/pairwise-ranking-app/static/js/2.eb6c115d.chunk.js.LICENSE.txt"
+    "static/js/2.91f47c7c.chunk.js.LICENSE.txt": "/pairwise-ranking-app/static/js/2.91f47c7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd46e98f.js",
-    "static/js/2.eb6c115d.chunk.js",
+    "static/js/2.91f47c7c.chunk.js",
     "static/css/main.bf5efef6.chunk.css",
-    "static/js/main.d1685a59.chunk.js"
+    "static/js/main.b8dbb59b.chunk.js"
   ]
 }
