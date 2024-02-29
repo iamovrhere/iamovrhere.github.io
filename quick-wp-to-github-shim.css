@@ -80,9 +80,25 @@ body {
   max-width: 50rem;
 }
 
+
+.stb-logo {
+  font-size: 1.5em;
+  color: rgb(96, 148, 117);
+}
+
 @media (width <= 800px) {
+
+  body {
+    align-items: center;
+  }
+
   .site-title {
     font-size: 2em;
+  }
+
+  #page {
+    max-width: 90%;
+    margin: auto;
   }
 
   #sidebar {
@@ -101,6 +117,10 @@ body {
 
   #sidebar {
     max-width: 20em;
+  }
+
+  #content {
+    max-width: 30em;
   }
 
   .wp-caption {
