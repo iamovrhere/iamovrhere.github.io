@@ -1,5 +1,7 @@
 #colophon,
 #sidebar-link,
+.entry-footer,
+.nav-links,
 #sidebar {
   display: none;
 }
@@ -27,3 +29,19 @@
   text-decoration: none;
 }
 
+.entry-title {
+  text-align: center;
+  font-size: 2.1em;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.gallery-item {
+  margin: 1em;
+  width: 15em;
+}
