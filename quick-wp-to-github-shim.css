@@ -1,13 +1,27 @@
 #colophon,
 #sidebar-link,
+#sidebar-top,
+#recent-posts-4,
 .entry-footer,
-.nav-links,
-#sidebar {
+.nav-links
+{
   display: none;
 }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#page {
+  flex-grow: 2;
+}
+
+#sidebar {
+  max-width: 30em;
+  border-color: #609475;
+  border-right: 1px solid rgb(96, 148, 117);
 }
 
 #content {
@@ -26,7 +40,7 @@ body {
   font-family: Oxygen, Helvetica Neue, Arial, sans-serif;
   font-weight: 300;
   text-align: center;
-  font-size: 64px;
+  font-size: 3em;
 }
 
 .site-title a {
