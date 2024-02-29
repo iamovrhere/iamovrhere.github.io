@@ -12,6 +12,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: row-reverse;
+  margin: 1rem;
 }
 
 #page {
@@ -76,4 +77,18 @@ body {
 
 .wp-caption {
   max-width: 50rem;
+}
+
+@media (width <= 800px) {
+  .site-title {
+    font-size: 2em;
+  }
+
+  #sidebar {
+    display: none;
+  }
+
+  .wp-caption {
+    max-width: 20em;
+  }
 }
