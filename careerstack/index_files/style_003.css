@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Decode CHILD
+ Description:  Decode Child Theme
+ Author:       Jason
+ Author URI:   http://ovrhere.com
+ Template:     decode
+ Version:      0.1.0
+ Text Domain:  decode
+*/
+
+
+@import url("../decode/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.entry-author-link,
+.entry-permalink,
+.entry-date,
+.entry-footer .categories,
+.entry-footer .date,
+.entry-footer .posted-on {
+	display: none;
+}
+
+.entry-footer .tags {
+	display: block; /*show tags. */
+}

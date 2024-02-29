@@ -1,0 +1,109 @@
+#colophon,
+#sidebar-link,
+#sidebar-top,
+#recent-posts-4,
+.entry-footer,
+.nav-links
+{
+  display: none;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 1rem;
+}
+
+#page {
+  flex-grow: 2;
+  margin: 1em;
+}
+
+#sidebar {
+  max-width: 30em;
+  border-color: #609475;
+  border-right: 1px solid rgb(96, 148, 117);
+}
+
+#content {
+  max-width: 50rem;
+  margin: auto;
+}
+
+#masthead {
+  border-color: #609475;
+  border-bottom: 1px solid rgb(96, 148, 117);
+  margin: 3.5% auto 0;
+  max-width: 45rem;
+}
+
+.site-title {
+  font-family: Oxygen, Helvetica Neue, Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  font-size: 3em;
+}
+
+.site-title a {
+  text-decoration: none;
+}
+
+.entry-title {
+  font-family: Oxygen, Helvetica Neue, Arial, sans-serif;
+  text-align: center;
+  font-size: 2.1em;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.gallery-item {
+  margin: 1em;
+  width: 10em;
+}
+
+.gallery-item img {
+  margin: auto;
+  display: block;
+}
+
+.wp-caption-text {
+  text-align: center;
+}
+
+.wp-caption {
+  max-width: 50rem;
+}
+
+@media (width <= 800px) {
+  .site-title {
+    font-size: 2em;
+  }
+
+  #sidebar {
+    display: none;
+  }
+
+  .wp-caption {
+    max-width: 20em;
+  }
+}
+
+@media (width <= 1500px) {
+  .site-title {
+    font-size: 2.5em;
+  }
+
+  #sidebar {
+    max-width: 20em;
+  }
+
+  .wp-caption {
+    max-width: 30em;
+  }
+}
