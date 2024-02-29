@@ -59,3 +59,7 @@ body {
 .wp-caption-text {
   text-align: center;
 }
+
+.wp-caption {
+  max-width: 50rem;
+}
