@@ -17,6 +17,7 @@ body {
 
 #page {
   flex-grow: 2;
+  margin: 1em;
 }
 
 #sidebar {
@@ -90,5 +91,19 @@ body {
 
   .wp-caption {
     max-width: 20em;
+  }
+}
+
+@media (width <= 1500px) {
+  .site-title {
+    font-size: 2.5em;
+  }
+
+  #sidebar {
+    max-width: 20em;
+  }
+
+  .wp-caption {
+    max-width: 30em;
   }
 }
